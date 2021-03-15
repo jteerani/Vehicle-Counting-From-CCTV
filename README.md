@@ -11,5 +11,4 @@
 7. input --> Example input video file.
 	- can download from https://drive.google.com/file/d/1sBI0RqDmLltTgpr9RSadMlVouXdXob9O/view?usp=sharing
 9. chart_custom_yolov4.png --> This picture is final output chart from custom training yolov4
-10. output --> This is sample output after run model.
 
