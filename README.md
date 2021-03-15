@@ -15,4 +15,4 @@
 9. chart_custom_yolov4.png --> This picture is final output chart from custom training yolov4
 
 
-### This project is designed for CCTV in specific area so that it need to be improve with more complex custom data and complex perspective.
+######## This project is designed for CCTV in specific area so that it need to be improved with more complex custom data and complex perspective.
