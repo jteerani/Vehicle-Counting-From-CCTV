@@ -1,4 +1,5 @@
 # Vehicle-Counting-From-CCTV
+![alt text](https://github.com/jteerani/Vehicle-Counting-From-CCTV/blob/main/output.JPG)
 
 1. yolo_custom.ipynb --> which is used for training custom data in YOLOV4.
 		                ---> I trained via Google CoLab
@@ -11,3 +12,4 @@
 	- can download from 
 9. chart_custom_yolov4.png --> This picture is final output chart from custom training yolov4
 10. output --> This is sample output after run model.
+
