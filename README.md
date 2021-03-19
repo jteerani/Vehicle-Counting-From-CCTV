@@ -6,7 +6,7 @@
 			
   ******If you want a custom data,please contact me********
   
-2. yolo-video-vehicle-count.py --> which is used for count vehicle.
+2. yolo-video-vehicle-count.py --> which is used for counting vehicle.
 3. sort.py --> which is tacker algorithm.This program is free software: https://github.com/abewley/sort
 5. model --> This folder is weight and configuration for custom data that I used for training yolov44
 	- weight can download from https://drive.google.com/file/d/1-0I6Dnd90F2Wt24Vt_XjlSS-FUwVfPPY/view?usp=sharing
